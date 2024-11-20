@@ -32,6 +32,7 @@
 #include <utils/constants.h>
 #include <utils/debug.h>
 #include <utils/fence.h>
+#include <cassert>
 
 #include "hwc_debugger.h"
 #include "hwc_buffer_sync_handler.h"
